@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(246, 207, 159);
+}
+.infograficos{
+    width: 17vw;
+    display: flex;
+    justify-content: space-between;
+}
+section{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.flecha{
+    width: 5vw;
+    padding: 10px;
+}
